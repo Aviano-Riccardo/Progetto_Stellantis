@@ -135,6 +135,7 @@ nav {
     padding: 15px;
     border-radius: 8px;
     box-sizing: border-box;
+    background: none;
 }
 
 .news img, .podcast img, .programmi img {
